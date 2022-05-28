@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/99187586/170833460-22a0c718-85e3-45a1-801f-f40629c0760a.gif)](https://github.com/gaganrajput7)
 <h1 align="center">Hi 👋, I'm Gagan</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
