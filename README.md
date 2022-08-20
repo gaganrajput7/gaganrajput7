@@ -14,7 +14,7 @@ I am a hard-working and driven individual who isn't afraid to face a challenge. 
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
-- 💬 Ask me about **HTML, CSS, JavaScript & React**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
