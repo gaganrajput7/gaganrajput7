@@ -5,6 +5,7 @@
 I am a hard-working and driven individual who isn't afraid to face a challenge. I'm passionate about my work and I know how to get the job done. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganrajput7&label=Profile%20views&color=0e75b6&style=flat" alt="gaganrajput7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganrajput7&label=Profile%20views&color=0e75b6&style=flat" alt="gaganrajput7" /> </p>
 
 
 
