@@ -15,7 +15,7 @@ I am a hard-working and driven individual who isn't afraid to face a challenge. 
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+
 
 
 
