@@ -10,7 +10,7 @@ I am a hard-working and driven individual who isn't afraid to face a challenge. 
 - 🌍 I'm based in **Bhiwani, Haryana**
 
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 🔭 I’m currently working on **Full Stack Web Development**
