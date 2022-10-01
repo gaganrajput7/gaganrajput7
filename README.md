@@ -18,7 +18,7 @@ I am a hard-working and driven individual who isn't afraid to face a challenge. 
 
 
 
-
+<h3 align="left">Connect with me:</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
